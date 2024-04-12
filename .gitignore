@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+.DS_Store
+.git/
+uploads/
+static/images
+.env/
+./.env
+.env*
+googleServiceAccountKey.json
+credentials.json
+.gitconfig

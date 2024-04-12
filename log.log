@@ -1,0 +1,75 @@
+*   7218562 was Thanh Nguyen : Merge pull request #3 from lygioian/thanhnt at Sat May 22 17:15:59 2021 +0700
+|\  
+| * a99ac58 was Thanh Nguyen : Fix API routers and bugs at Sat May 22 17:15:03 2021 +0700
+| * f9ecbbd was Thanh Nguyen : Integrate 'populate' to DB find() service at Sat May 22 17:14:04 2021 +0700
+* | c0cc438 was lygioian : Merge branch 'master' of https://github.com/lygioian/bk-houze at Sat May 22 13:10:18 2021 +0700
+|\| 
+| * f052bd8 was Thanh Nguyen : Fix bug device not created: Add findOneOrCreate DeviceService at Sat May 22 11:30:35 2021 +0700
+| *   db055ab was Thanh Nguyen : Merge branch 'master' of github.com:lygioian/bk-houze at Sat May 22 10:18:57 2021 +0700
+| |\  
+| | *   b522bdd was Thanh Nguyen : Merge pull request #2 from lygioian/thanhnt at Sat May 22 02:05:32 2021 +0700
+| | |\  
+| * | | 9b624ee was Thanh Nguyen : ?? at Sat May 22 10:17:07 2021 +0700
+| | |/  
+| |/|   
+| * | 49005d4 was Thanh Nguyen : Split database: Device & DeviceStatus at Sat May 22 02:03:19 2021 +0700
+* | | 684db3b was lygioian : + Socket update to class container at Sat May 22 13:08:45 2021 +0700
+| |/  
+|/|   
+* | 2a97cba was lygioian : Merge branch 'thanhnt' at Fri May 21 23:53:39 2021 +0700
+|\| 
+| * 60bd194 was Thanh Nguyen : Implement DeviceController and relevant services at Fri May 21 23:13:36 2021 +0700
+| * f59fff8 was Thanh Nguyen : Register DeviceController (not implemented yet) at Fri May 21 21:58:38 2021 +0700
+| * a0d7418 was Thanh Nguyen : Create a list of supported devices at Fri May 21 21:56:04 2021 +0700
+* | 53b486a was lygioian : Merge pull request #1 from lygioian/thanhnt at Fri May 21 19:19:48 2021 +0700
+|\| 
+| * 0a047d0 was Thanh Nguyen : Comment: format of message from Adafruit at Wed May 19 22:55:01 2021 +0700
+| * 327256c was Thanh Nguyen : Socket: notify all listenning clients when DB updated at Wed May 19 22:38:46 2021 +0700
+| * 92578dc was Thanh Nguyen : Add function to get device name in config and complete store data from Adafruit to DB at Wed May 19 20:11:07 2021 +0700
+| * 4a7d01b was Thanh Nguyen : Change to compare device.id with null when creating new Device document in DB at Wed May 19 20:09:30 2021 +0700
+| *   7732deb was Thanh Nguyen : Merge An's code fix bug using DeviceService in MQTTService at Wed May 19 19:33:17 2021 +0700
+| |\  
+| | * cc1f971 was Lý giới An : *fix bug mqtt service at Wed May 19 16:25:57 2021 +0700
+| * | 7a63404 was Thanh Nguyen : Beautify mqtt.service.ts code at Wed May 19 19:12:01 2021 +0700
+| |/  
+| * 57f690f was Thanh Nguyen : Add DeviceService with a small bug in mqtt.service when using at Wed May 19 15:44:26 2021 +0700
+| * 4cce938 was Thanh Nguyen : Create list of device topics and implement MQTTService class at Wed May 19 12:56:37 2021 +0700
+|/  
+*   846b30a was lygioian : Merge branch 'tuvq' at Wed May 19 02:20:48 2021 +0700
+|\  
+| * 84b5842 was Tu Vo : xong findOneHomeRoutine at Wed May 19 00:16:07 2021 +0700
+* | 4a343ae was tacvoong : Add Get Device Detail at Wed May 19 00:35:43 2021 +0700
+* | bb00938 was tacvoong : Add Get Devices at Tue May 18 23:22:42 2021 +0700
+* | 46caf6b was tacvoong : Added Delete Device at Tue May 18 23:08:42 2021 +0700
+* | 8b21e94 was tacvoong : Added Update Device at Tue May 18 22:19:30 2021 +0700
+|/  
+*   b0a1574 was lygioian : Merge branch 'tuvq' at Tue May 18 21:16:34 2021 +0700
+|\  
+| * 309fa10 was Tu Vo : chua fix dc bug findOneHomeRoutine at Tue May 18 20:57:37 2021 +0700
+| * c5d416b was Tu Vo : add delete routine at Tue May 18 19:38:10 2021 +0700
+| * e41edca was Tu Vo : add update routine at Tue May 18 19:27:46 2021 +0700
+| * 81402f1 was Tu Vo : update create routine at Tue May 18 19:19:57 2021 +0700
+| * a7205ec was Tu Vo : add create routine at Tue May 18 17:05:54 2021 +0700
+| * 12cd2df was Tu Vo : update at Tue May 18 15:38:34 2021 +0700
+| * 36b136c was Tu Vo : add get by name at Tue May 18 15:12:51 2021 +0700
+| * 8ae7108 was Tu Vo : add update, delete, get home at Tue May 18 15:03:43 2021 +0700
+* | 9a7fb63 was tacvoong : Added Add Device at Tue May 18 20:47:30 2021 +0700
+* | 09c786d was tacvoong : Added room APIs at Tue May 18 17:30:44 2021 +0700
+|/  
+* b042f22 was lygioian : + Fix container error and create socket connection at Tue May 18 02:35:23 2021 +0700
+*   cecc56e was Tu Vo : Merge branch 'master' of https://github.com/lygioian/bk-houze at Mon May 17 23:22:24 2021 +0700
+|\  
+| *   685fb04 was lygioian : Merge branch 'master' of https://github.com/lygioian/bk-houze at Mon May 17 23:06:47 2021 +0700
+| |\  
+| | *   5a55972 was tacvoong : Merge branch 'master' of https://github.com/lygioian/bk-houze Merge code at Mon May 17 23:01:58 2021 +0700
+| | |\  
+| | | * 65e9072 was Thanh Nguyen : Create README.md at Mon May 17 22:29:13 2021 +0700
+| | * | e8331a9 was tacvoong : commit from Tac at Mon May 17 22:56:27 2021 +0700
+| | |/  
+| * / 882d040 was lygioian : + Create socketIO connection server at Mon May 17 23:06:42 2021 +0700
+| |/  
+| * 780c665 was lygioian : - Remove sharp at Sun May 16 22:38:50 2021 +0700
+* | d5a845e was Tu Vo : create home model, controller, service at Mon May 17 23:17:30 2021 +0700
+|/  
+* 7edcbb3 was lygioian : + Update lock at Sun May 16 22:18:34 2021 +0700
+* 2ec486d was lygioian : Initial Project at Sun May 16 20:53:44 2021 +0700

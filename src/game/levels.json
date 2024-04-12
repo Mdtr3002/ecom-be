@@ -1,0 +1,794 @@
+[
+    {
+        "cellCount": 3,
+        "memoryCount": 3,
+        "fieldSize": 300,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 3,
+        "memoryCount": 4,
+        "fieldSize": 300,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 4,
+        "memoryCount": 4,
+        "fieldSize": 300,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 4,
+        "memoryCount": 5,
+        "fieldSize": 300,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 4,
+        "memoryCount": 6,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 2,
+        "time": 1000
+    },
+    {
+        "cellCount": 4,
+        "memoryCount": 6,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 5,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 5,
+        "memoryCount": 6,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 5,
+        "memoryCount": 7,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 5,
+        "memoryCount": 8,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 10,
+        "time": 700
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 2,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 2,
+        "time": 1500
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 8,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 10,
+        "time": 700
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 2,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 2,
+        "time": 1500
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 6,
+        "memoryCount": 8,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 10,
+        "time": 700
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 2,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 2,
+        "time": 1500
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 8,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 10,
+        "time": 700
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 2,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 2,
+        "time": 1500
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 7,
+        "memoryCount": 8,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 10,
+        "time": 700
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 2,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 2,
+        "time": 1500
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 8,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 10,
+        "time": 700
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 2,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 2,
+        "time": 1500
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 8,
+        "memoryCount": 8,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 10,
+        "time": 700
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 2,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 2,
+        "time": 1500
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 8,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 10,
+        "time": 700
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 2,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 3,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 2,
+        "time": 1500
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 4,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1500
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 5,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 9,
+        "memoryCount": 8,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 10,
+        "time": 700
+    },
+    {
+        "cellCount": 10,
+        "memoryCount": 4,
+        "fieldSize": 300,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 10,
+        "memoryCount": 4,
+        "fieldSize": 300,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 10,
+        "memoryCount": 5,
+        "fieldSize": 300,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 10,
+        "memoryCount": 5,
+        "fieldSize": 300,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 10,
+        "memoryCount": 6,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 2,
+        "time": 1000
+    },
+    {
+        "cellCount": 10,
+        "memoryCount": 6,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 10,
+        "memoryCount": 7,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 10,
+        "memoryCount": 7,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 700
+    },
+    {
+        "cellCount": 10,
+        "memoryCount": 8,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 1,
+        "time": 1000
+    },
+    {
+        "cellCount": 10,
+        "memoryCount": 9,
+        "fieldSize": 350,
+        "space": 2,
+        "score": 10,
+        "time": 700
+    }
+]
